@@ -51,7 +51,7 @@ function findSong() {
             return console.log('Error occurred: ' + err);
         }
      
-        // console.log(data.tracks.items); 
+       
 
         const spotifyData = data.tracks.items;
 
@@ -79,7 +79,7 @@ const findMovie = (movie = "Mr. Nobody") => {
     const queryUrl = `http://www.omdbapi.com/?t=${movie}&y=&plot=short&apikey=trilogy`;  
 
     axios.get(queryUrl).then( response => {
-     console.log(response.data);
+     
 const OMDBData = response.data; 
      const movieData = 
      `
