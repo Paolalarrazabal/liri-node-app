@@ -67,10 +67,10 @@ The command `do-what-it-says` will take spotify-this-song,"I Want it That Way" a
 
 The result would be: 
 
- Artist(s): Backstreet Boys
- Song: I Want It That Way
- Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=51061dd6f893429d8de5c92fab97634f
- Album: The Hits--Chapter One
+ * Artist(s): Backstreet Boys
+ * Song: I Want It That Way
+ * Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=51061dd6f893429d8de5c92fab97634f
+ * Album: The Hits--Chapter One
 
 
 
