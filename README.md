@@ -63,7 +63,7 @@ For Example: `movie-this Titanic` would yield.
 
 This final command takes in a command from the random.txt file and proceeds to show results from the command extracted from the file. This is possible with the `fs` Node package. Whatever command is written into the random.txt file will be used on the command line. 
 
-The command `do-what-it-says` will take spotify-this-song,"I Want it That Way" and thus execute that command. 
+The command `do-what-it-says` will take *spotify-this-song,"I Want it That Way"* and thus execute that command. 
 
 The result would be: 
 
